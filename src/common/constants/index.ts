@@ -1,0 +1,3 @@
+const CLIENT_ID_APPLICATION = process.env.REACT_APP_API_UNSPLASH_ACCESS_KEY;
+export const BASE_URL = process.env.REACT_APP_API_UNSPLASH_URL;
+export const CLIENT_ID = `client_id=${CLIENT_ID_APPLICATION}`;

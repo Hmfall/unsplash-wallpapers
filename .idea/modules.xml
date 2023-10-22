@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/wallpaperscraft-clone-react.iml" filepath="$PROJECT_DIR$/.idea/wallpaperscraft-clone-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/unsplash-wallpapers.iml" filepath="$PROJECT_DIR$/.idea/unsplash-wallpapers.iml" />
     </modules>
   </component>
 </project>
